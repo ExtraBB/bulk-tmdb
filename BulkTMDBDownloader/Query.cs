@@ -9,7 +9,7 @@ namespace BulkTMDBDownloader
     class Query
     {
         private const string Uribase = "https://api.themoviedb.org/3/";
-        private const string Apikey = "302a28376c434c22df5e3af0f26f2fe8";
+        private const string Apikey = "Fill in API key here";
 
         public enum RequestTypes{ Search, Get }
         public Action<string> CallbackAction;
