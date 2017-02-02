@@ -1,6 +1,6 @@
 # Bulk tMDB Downloader
 
-This C# application allows you to download tMDB data in bulk. I originally created this because I need to save/cache an offline copy of a specific subset of the tMDB database.
+This C# application allows you to download tMDB data in bulk. I originally created this because I needed to save/cache an offline copy of a specific subset of the tMDB database.
 
 ### What does it do?
  - It takes a comma-seperated values file (.csv) and searches a tMDB entry for each line.
