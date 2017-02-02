@@ -10,5 +10,6 @@ This C# application allows you to download tMDB data in bulk. I originally creat
 ### How do I get it to work?
 - Enter your tMDB API key in the `Query.cs` file.
 - Make sure your input file matches the specification. (See `AddSearchRequest()`)
+- Run the application in Visual Studio.
 
 ### That's it! Have fun.
